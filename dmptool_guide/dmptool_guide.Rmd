@@ -11,7 +11,7 @@ knitr::include_graphics("images/logo.png")
 ```
 
 
-## A Guide to DMPTool for CU Boulder Researchers
+## A Guide to DMPTool for CU-Boulder Researchers
 
 ### Step 1: Log into the DMPTool Account and Create a New Plan
 
