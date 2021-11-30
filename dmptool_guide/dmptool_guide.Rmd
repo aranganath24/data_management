@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## A Guide to DMPTool for CU Boulder Researchers
 
-#### Step 1: Log into the DMPTool Account and Create a New Plan
+### Step 1: Log into the DMPTool Account and Create a New Plan
 
 Go to the [DMPTool](https://dmptool.org) website, and select the option to sign in via the institutional portal:
 
@@ -31,7 +31,7 @@ In this example, we’ll name our project “Demonstration”, since we’re cre
 knitr::include_graphics("images/image3.png")
 ```
 
-#### Step 2: Write and Assemble the Data Management Plan
+### Step 2: Customize, Write and Assemble the Data Management Plan
 
 At this point, we are on a page that looks something like the one below. Within this environment, we can write and assemble our DMP. Note the blue buttons running along the top; to keep our workflow organized, we can systematically work through the sections that correspond with these various buttons. Also, note the **Select Guidance**  section on the right. Make sure that both the **DMPTool** and **University of Colorado Boulder (CU Boulder)** buttons are selected. This ensures that as we work through the material in the **Write Plan** tab, we will be able to see relevant guidance pertaining to different sections of the DMP. 
 
@@ -40,6 +40,53 @@ At this point, we are on a page that looks something like the one below. Within 
 knitr::include_graphics("images/image4.png")
 ```
 
+The first button, **Collaborators**, will take us to a page where we can invite collaborators to participate in creating the DMP, and regulate their access to the DMP: 
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/image5.png")
+```
+
+Once we’ve invited collaborators (if relevant) and set their permissions, we can click the **Write Plan** button, which will bring us to a page that looks like the one below. Each section on this page corresponds to a required section of the DMP (these sections are based on the template that was chosen earlier). Click the **+** to expand a section and work on it. 
+
+```{r, echo=F}
+knitr::include_graphics("images/image6.png")
+```
+
+To take an example, let’s expand the **Data and metadata standards** section, which will look like the image below once open. We can write (or paste) the text for this section into the text box, and click **Save** (note that it’s necessary to click Save after every section is completed). 
+
+```{r, echo=F}
+knitr::include_graphics("images/image7.png")
+```
+
+On the right of the image above, we can view relevant information on a section or advice on how to complete it. To view this information, make sure that the **Guidance** button is selected (when selected, it will appear white). Once the **Guidance** button is selected, we’ll see buttons corresponding to different sources. To see instructions from NSF or DMPTool itself, click on those buttons. To see CU Boulder-specific information on completing a given section (i.e. information on CU-specific resources or tools that might be relevant to a given section), click the **CU Boulder** button. There is CU Boulder-specific guidance for all sections in the **Write Plan** tab (assuming we’re using the generic NSF template) with the exception of the first section (on Types of Data). 
+
+### Step 3: Download and Export the DMP
+
+After completing and saving the various sections, we can click the **Download** button (next to the **Research outputs** button). After customizing the plan according to the desired specifications, we can then click **Download Plan**, at which point DMPTool will generate a complete data management plan in the desired file format (in this case, PDF), based on the text we entered in the various sections above.  
+
+```{r, echo=F}
+knitr::include_graphics("images/image8.png")
+```
+
+When opening up the exported file, it will look something like this:
+
+```{r, echo=F}
+knitr::include_graphics("images/image9.png")
+```
+
+### Step 4: Have someone review the draft DMP 
+
+After generating a draft DMP using DMPTool, it is often useful to have someone review and offer feedback on your draft. In particular, we encourage CU researchers to reach out to the [Center for Research Data and Digital Scholarship](https://www.colorado.edu/crdds/), which has librarians who are able to review DMPs, and offer advice on possible revisions before submitting the plan to the granting agency. To set up an appointment with a CRDDS librarian, please send an email to [crdds@colorado.edu](mailto:crdds@colorado.edu). 
+
+### Step 5: Revise the DMP
+
+To implement revisions, we can access our DMP (and its various sections) from our personal DMPTool dashboard. Simply click on the relevant project title, and DMPTool will take us back into that project, where we implement necessary revisions to the relevant sections, and then re-export the revised DMP:
+
+```{r, echo=F}
+knitr::include_graphics("images/image10.png")
+```
+
+Note that it's not necessary to complete the DMP in one session; so long as we save the DMPTool sections as we go, it's always possible to return to an in-progress or incomplete DMP from our dashboard, and continue working where we left off. 
 
 
 
