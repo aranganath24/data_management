@@ -4,4 +4,4 @@
 
 Go to [dmptool.org](www.dmptool.org) and select the option to sign in via the institutional portal:
 
-![image](/Users/adra7980/Documents/git_repositories/data_management/images/image1.png)
+![image](/Users/adra7980/Documents/git_repositories/data_management/dmptool_guide/images/image1.png)
