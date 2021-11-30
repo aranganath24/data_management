@@ -1,0 +1,17 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## A Guide to DMPTool for CU Boulder Researchers
+
+### Step 1
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/image1.png")
+```
+
+
