@@ -8,10 +8,42 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## A Guide to DMPTool for CU Boulder Researchers
 
-### Step 1
+#### Step 1: Log into the DMPTool Account and Create a New Plan
+
+Go to the [DMPTool](https://dmptool.org) website, and select the option to sign in via the institutional portal:
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/image1.png")
 ```
+
+Then, select University of Colorado, Boulder; once we click **Go**, we will be able to sign in via our Identikey:
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/image2.png")
+```
+
+This will bring us to a menu where we can provide relevant details about our project (such as the project title and funding organization). Based on the funding organization we select, we can select the template that meets our needs from the drop-down menu below the section with the header that reads **Which DMP template would you like to use?** 
+
+In this example, we’ll name our project “Demonstration”, since we’re creating this plan for demonstration purposes. We’ll pretend that the project is funded by the NSF, and that we’d like to work with the generic NSF template. Once we’ve made our selections, we can again select the **Create plan** button: 
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/image3.png")
+```
+
+#### Step 2: Write and Assemble the Data Management Plan
+
+At this point, we are on a page that looks something like the one below. Within this environment, we can write and assemble our DMP. Note the blue buttons running along the top; to keep our workflow organized, we can systematically work through the sections that correspond with these various buttons. Also, note the **Select Guidance**  section on the right. Make sure that both the **DMPTool** and **University of Colorado Boulder (CU Boulder)** buttons are selected. This ensures that as we work through the material in the **Write Plan** tab, we will be able to see relevant guidance pertaining to different sections of the DMP. 
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/image4.png")
+```
+
+
+
+
+
+
 
 
