@@ -4,4 +4,4 @@
 
 Go to [dmptool.org](www.dmptool.org) and select the option to sign in via the institutional portal:
 
-![image](https://github.com/aranganath24/data_management/blob/main/dmptool_guide/images/image1.png)
+![image](https://github.com/aranganath24/data_management/blob/main/dmptool_guide/images/image1.png =250x250)
